@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "package": "zip -r package.zip ."
+  }
+}
